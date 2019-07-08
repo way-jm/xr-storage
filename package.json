@@ -12,7 +12,7 @@
   "author": "way <1904628089@qq.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:way-jm/qm-storage.git"
   },
   "license": "MIT",
   "engines": {
