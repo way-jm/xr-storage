@@ -28,7 +28,6 @@ var Store = /** @class */ (function () {
         }
         catch (e) {
             this.disabled = true;
-            return;
         }
         this.storage = window[type];
     }
@@ -37,8 +36,6 @@ var Store = /** @class */ (function () {
             return null;
         // this[config.method](config.key,config.value)
         switch (config.method) {
-            case 'get':
-                return this.get(config.key);
             case 'set':
                 return this.set(config.key, config.value);
             case 'clear':
@@ -48,9 +45,9 @@ var Store = /** @class */ (function () {
             case 'has':
                 return this.has(config.key);
             case 'remove':
-                return this.has(config.key);
+                return this.remove(config.key);
             default:
-                this.get(config.key);
+                return this.get(config.key);
         }
     };
     // 设置storage
