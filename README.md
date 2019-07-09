@@ -11,6 +11,7 @@
 
 
  `npm  i qm-storage --save`
+ 
  `import store from 'qm-storage'`
 ## 使用文档
 
