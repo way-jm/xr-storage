@@ -21,3 +21,10 @@
 
 [documentation](https://way-jm.github.io/qm-storage/start/start.html)
 
+## 关于单元测试
+
+
+在本地编写了完整的单元测试，由于还没招到模拟node禁用cookies的方法，所以Store的12行的代码无法coverage，但是浏览器下已经模拟测试过，没有问题，大家可以放心使用  
+以下是单元测试结果:
+![图片](https://way-jm.github.io/wayswipe/static/picture/test.jpg)
+
