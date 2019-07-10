@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1562660188974" clover="3.2.0">
-  <project timestamp="1562660188974" name="All files">
-    <metrics statements="68" coveredstatements="67" conditionals="38" coveredconditionals="31" methods="15" coveredmethods="15" elements="121" coveredelements="113" complexity="0" loc="68" ncloc="68" packages="1" files="3" classes="3"/>
+<coverage generated="1562735974992" clover="3.2.0">
+  <project timestamp="1562735974992" name="All files">
+    <metrics statements="68" coveredstatements="67" conditionals="40" coveredconditionals="32" methods="15" coveredmethods="15" elements="123" coveredelements="114" complexity="0" loc="68" ncloc="68" packages="1" files="3" classes="3"/>
     <file name="Store.ts" path="/Users/way/PhpstormProjects/qm-storage/src/Store.ts">
-      <metrics statements="47" coveredstatements="46" conditionals="34" coveredconditionals="27" methods="11" coveredmethods="11"/>
+      <metrics statements="47" coveredstatements="46" conditionals="36" coveredconditionals="28" methods="11" coveredmethods="11"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="5" count="2" type="stmt"/>
       <line num="8" count="2" type="stmt"/>
       <line num="10" count="2" type="stmt"/>
       <line num="12" count="0" type="stmt"/>
-      <line num="14" count="2" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
       <line num="16" count="1" type="stmt"/>
       <line num="17" count="8" type="cond" truecount="1" falsecount="1"/>
       <line num="19" count="8" type="stmt"/>

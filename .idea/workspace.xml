@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="" />
+    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/code/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/semanticDiagnostics/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/syntacticDiagnostics/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Store.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Store.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/helps.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/helps.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.es5.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.umd.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/api/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/api/function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/api/prototype.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.b8444819.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.ab736c13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.f851e828.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/2.7af81705.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.e6d6c959.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.7bf71852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.f32454df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.45e2340f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.edfb72ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.34f6ab9d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.e708abf7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.9ceff408.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/start/install.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/start/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,68 +52,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Store.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="324">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/start/app.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="158">
-                <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/types.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/store.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/utils.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="198">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -124,16 +121,15 @@
         <option value="$PROJECT_DIR$/rollup.config.ts" />
         <option value="$PROJECT_DIR$/test/boot.ts" />
         <option value="$PROJECT_DIR$/test/utils.spec.ts" />
-        <option value="$PROJECT_DIR$/src/Store.ts" />
         <option value="$PROJECT_DIR$/test/store.spec.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Store.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1373" />
     <option name="height" value="788" />
@@ -155,22 +151,7 @@
             <path>
               <item name="qm-storage" type="b2602c69:ProjectViewProjectNode" />
               <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qm-storage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qm-storage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qm-storage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,7 +171,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -242,7 +223,11 @@
       <workItem from="1562309230596" duration="7214000" />
       <workItem from="1562550910216" duration="8768000" />
       <workItem from="1562565045188" duration="11784000" />
-      <workItem from="1562649682599" duration="7915000" />
+      <workItem from="1562649682599" duration="8663000" />
+      <workItem from="1562665507636" duration="1351000" />
+      <workItem from="1562735609524" duration="598000" />
+      <workItem from="1562736211942" duration="29000" />
+      <workItem from="1562736258490" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme说明">
       <created>1562649804639</created>
@@ -286,11 +271,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562661138373</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加readme说明">
+      <created>1562661310565</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562661310565</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加readme说明">
+      <created>1562661377248</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562661377248</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41963000" />
+    <option name="totallyTimeSpent" value="44694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,9 +301,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1373" height="788" extended-state="0" />
+    <frame x="0" y="23" width="1373" height="788" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26746807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28249437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -320,7 +320,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.3275862" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.52011496" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.52011496" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,13 +413,6 @@
     <entry file="file://$PROJECT_DIR$/dist/b-storage.umd.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/start/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -437,9 +430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/boot.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/boot.ts" />
     <entry file="file://$PROJECT_DIR$/src/helps.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -447,20 +438,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/utils.spec.ts">
+    <entry file="file://$PROJECT_DIR$/docs/404.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1170">
+          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -471,40 +453,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/store.spec.ts">
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/404.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/test/utils.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        <state relative-caret-position="108">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/lcov-report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="248">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/store.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Store.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="324">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="158">
-            <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/examples/start/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>

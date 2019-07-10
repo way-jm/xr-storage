@@ -11,7 +11,7 @@ var Store = /** @class */ (function () {
         catch (e) {
             this.disabled = true;
         }
-        this.storage = window[type];
+        this.disabled ? this.storage = null : this.storage = window[type];
     }
     Store.prototype.do = function (config) {
         if (this.disabled)
