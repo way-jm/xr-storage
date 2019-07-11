@@ -1,4 +1,4 @@
-# qm-storage
+# xr-storage
 
 使用Typescript编写更加易用的localStorage和sessionStorage的API
 
