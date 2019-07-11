@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/function.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/prototype.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.b8444819.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.ab736c13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.f851e828.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/2.7af81705.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.e6d6c959.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.7bf71852.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.f32454df.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.45e2340f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.edfb72ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.34f6ab9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.e708abf7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.9ceff408.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start/install.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rollup.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +19,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="558">
-                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <first_editor relative-caret-position="-145">
+                <caret column="4" selection-start-column="4" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="-1222">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -148,11 +117,11 @@
         <option value="$PROJECT_DIR$/test/boot.ts" />
         <option value="$PROJECT_DIR$/test/utils.spec.ts" />
         <option value="$PROJECT_DIR$/test/store.spec.ts" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Store.ts" />
         <option value="$PROJECT_DIR$/rollup.config.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -198,7 +167,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -257,6 +226,7 @@
       <workItem from="1562736258490" duration="5000" />
       <workItem from="1562736333681" duration="758000" />
       <workItem from="1562804551445" duration="719000" />
+      <workItem from="1562805279473" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme说明">
       <created>1562649804639</created>
@@ -321,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562736449439</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="change 包名">
+      <created>1562806197212</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562806197212</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46171000" />
+    <option name="totallyTimeSpent" value="47141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,9 +315,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1373" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29075882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29526672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -374,7 +350,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加readme说明" />
     <MESSAGE value="fix error after ban cookie" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix error after ban cookie" />
+    <MESSAGE value="change 包名" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 包名" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -440,9 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/b-storage.umd.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/b-storage.umd.js" />
     <entry file="file://$PROJECT_DIR$/examples/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -502,23 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Store.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/start/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/404.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/404.html" />
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -526,16 +485,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1096" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -557,10 +506,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/start/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="-1222">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Store.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-145">
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
