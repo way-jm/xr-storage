@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>xr-storage | xr-storage</title>
+	<title>StoreInstance | xr-storage</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style type="text/css">/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
@@ -879,7 +879,7 @@ img { max-width: 100%; }
 		<div class="container">
 			<div class="table-wrap">
 				<div class="table-cell">
-					<strong><a href="index.html">xr-storage</a></strong>
+					<strong><a href="../index.html">xr-storage</a></strong>
 				</div>
 				<div class="table-cell" id="tsd-widgets">
 					<div id="tsd-filter">
@@ -910,260 +910,275 @@ img { max-width: 100%; }
 <nav class="tsd-navigation secondary">
 	<ul>
 		<li class=" tsd-kind-class">
-			<a href="classes/store.html" class="tsd-kind-icon">Store</a>
+			<a href="../classes/store.html" class="tsd-kind-icon">Store</a>
 		</li>
 		<li class=" tsd-kind-interface">
-			<a href="interfaces/allres.html" class="tsd-kind-icon">All<wbr>Res</a>
+			<a href="allres.html" class="tsd-kind-icon">All<wbr>Res</a>
 		</li>
 		<li class=" tsd-kind-interface">
-			<a href="interfaces/storeconfig.html" class="tsd-kind-icon">Store<wbr>Config</a>
+			<a href="storeconfig.html" class="tsd-kind-icon">Store<wbr>Config</a>
 		</li>
-		<li class=" tsd-kind-interface">
-			<a href="interfaces/storeinstance.html" class="tsd-kind-icon">Store<wbr>Instance</a>
+		<li class="current tsd-kind-interface">
+			<a href="storeinstance.html" class="tsd-kind-icon">Store<wbr>Instance</a>
+			<ul>
+				<li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#session" class="tsd-kind-icon">session</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#clear" class="tsd-kind-icon">clear</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#get" class="tsd-kind-icon">get</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#getall" class="tsd-kind-icon">get<wbr>All</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#has" class="tsd-kind-icon">has</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#remove" class="tsd-kind-icon">remove</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<a href="storeinstance.html#set" class="tsd-kind-icon">set</a>
+				</li>
+			</ul>
 		</li>
 		<li class=" tsd-kind-type-alias">
-			<a href="globals.html#method" class="tsd-kind-icon">Method</a>
+			<a href="../globals.html#method" class="tsd-kind-icon">Method</a>
 		</li>
 		<li class=" tsd-kind-type-alias">
-			<a href="globals.html#storagetype" class="tsd-kind-icon">Storage<wbr>Type</a>
+			<a href="../globals.html#storagetype" class="tsd-kind-icon">Storage<wbr>Type</a>
 		</li>
 		<li class=" tsd-kind-variable tsd-is-not-exported">
-			<a href="globals.html#session" class="tsd-kind-icon">session</a>
+			<a href="../globals.html#session" class="tsd-kind-icon">session</a>
 		</li>
 		<li class=" tsd-kind-variable">
-			<a href="globals.html#store" class="tsd-kind-icon">store</a>
+			<a href="../globals.html#store" class="tsd-kind-icon">store</a>
 		</li>
 		<li class=" tsd-kind-function tsd-is-not-exported">
-			<a href="globals.html#createinstance" class="tsd-kind-icon">create<wbr>Instance</a>
+			<a href="../globals.html#createinstance" class="tsd-kind-icon">create<wbr>Instance</a>
 		</li>
 		<li class=" tsd-kind-function">
-			<a href="globals.html#deserialize" class="tsd-kind-icon">deserialize</a>
+			<a href="../globals.html#deserialize" class="tsd-kind-icon">deserialize</a>
 		</li>
 		<li class=" tsd-kind-function tsd-has-type-parameter">
-			<a href="globals.html#extend" class="tsd-kind-icon">extend</a>
+			<a href="../globals.html#extend" class="tsd-kind-icon">extend</a>
 		</li>
 		<li class=" tsd-kind-function">
-			<a href="globals.html#serialize" class="tsd-kind-icon">serialize</a>
+			<a href="../globals.html#serialize" class="tsd-kind-icon">serialize</a>
 		</li>
 	</ul>
 </nav>
 <div class="container container-main">
 	<div class="content-wrap">
-		<div class="tsd-panel tsd-typography">
-			<h1 id="qm-storage">qm-storage</h1>
-			<p>使用Typescript编写更加易用的localStorage和sessionStorage的API</p>
-			<p><a href="https://www.npmjs.com/package/qm-storage"><img src="https://img.shields.io/npm/v/qm-storage.svg" alt=""></a>
-				<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/npm/types/qm-storage.svg" alt=""></a>
-				<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier"></a>
-				<a href="https://travis-ci.org/alexjoverm/typescript-library-starter"><img src="https://img.shields.io/travis/alexjoverm/typescript-library-starter.svg" alt="Travis"></a>
-			<a href="https://coveralls.io/github/alexjoverm/typescript-library-starter"><img src="https://img.shields.io/coveralls/alexjoverm/typescript-library-starter.svg" alt="Coveralls"></a></p>
-			<h2 id="-">安装</h2>
-			<p> <code>npm  i qm-storage --save</code></p>
-			<p> <code>import store from &#39;qm-storage&#39;</code></p>
-			<h2 id="-">使用文档</h2>
-			<p><a href="https://way-jm.github.io/qm-storage/start/start.html">documentation</a></p>
-			<h2 id="-">关于单元测试</h2>
-			<p>在本地编写了完整的单元测试，由于还没有找到模拟node禁用cookies的方法，所以Store的12行的代码无法coverage，但是浏览器下已经模拟测试过，没有问题  </p>
-			<h5 id="-">以下是单元测试结果:</h5>
-			<p><img src="https://way-jm.github.io/wayswipe/static/picture/test.jpg" alt="图片"></p>
-		</div>
-		<div style="position:relative;"><a name="typedoc-main-index" class="tsd-anchor"></a></div>
+		<section class="tsd-panel tsd-hierarchy">
+			<h3>Hierarchy</h3>
+			<ul class="tsd-hierarchy">
+				<li>
+					<a href="../classes/store.html" class="tsd-signature-type">Store</a>
+					<ul class="tsd-hierarchy">
+						<li>
+							<span class="target">StoreInstance</span>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</section>
+		<section class="tsd-panel">
+			<h3 class="tsd-before-signature">Callable</h3>
+			<ul class="tsd-signatures tsd-kind-interface">
+				<li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span>config<span class="tsd-signature-symbol">: </span><a href="storeconfig.html" class="tsd-signature-type">StoreConfig</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+			</ul>
+			<ul class="tsd-descriptions">
+				<li class="tsd-description">
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L26">types.ts:26</a></li>
+						</ul>
+					</aside>
+					<h4 class="tsd-parameters-title">Parameters</h4>
+					<ul class="tsd-parameters">
+						<li>
+							<h5>config: <a href="storeconfig.html" class="tsd-signature-type">StoreConfig</a></h5>
+						</li>
+					</ul>
+					<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
+				</li>
+			</ul>
+		</section>
 		<section class="tsd-panel-group tsd-index-group">
 			<h2>Index</h2>
 			<section class="tsd-panel tsd-index-panel">
 				<div class="tsd-index-content">
-					<section class="tsd-index-section ">
-						<h3>Classes</h3>
+					<section class="tsd-index-section tsd-is-inherited">
+						<h3>Properties</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-class"><a href="classes/store.html" class="tsd-kind-icon">Store</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#session" class="tsd-kind-icon">session</a></li>
 						</ul>
 					</section>
-					<section class="tsd-index-section ">
-						<h3>Interfaces</h3>
+					<section class="tsd-index-section tsd-is-inherited">
+						<h3>Methods</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-interface"><a href="interfaces/allres.html" class="tsd-kind-icon">All<wbr>Res</a></li>
-							<li class="tsd-kind-interface"><a href="interfaces/storeconfig.html" class="tsd-kind-icon">Store<wbr>Config</a></li>
-							<li class="tsd-kind-interface"><a href="interfaces/storeinstance.html" class="tsd-kind-icon">Store<wbr>Instance</a></li>
-						</ul>
-					</section>
-					<section class="tsd-index-section ">
-						<h3>Type aliases</h3>
-						<ul class="tsd-index-list">
-							<li class="tsd-kind-type-alias"><a href="globals.html#method" class="tsd-kind-icon">Method</a></li>
-							<li class="tsd-kind-type-alias"><a href="globals.html#storagetype" class="tsd-kind-icon">Storage<wbr>Type</a></li>
-						</ul>
-					</section>
-					<section class="tsd-index-section ">
-						<h3>Variables</h3>
-						<ul class="tsd-index-list">
-							<li class="tsd-kind-variable tsd-is-not-exported"><a href="globals.html#session" class="tsd-kind-icon">session</a></li>
-							<li class="tsd-kind-variable"><a href="globals.html#store" class="tsd-kind-icon">store</a></li>
-						</ul>
-					</section>
-					<section class="tsd-index-section ">
-						<h3>Functions</h3>
-						<ul class="tsd-index-list">
-							<li class="tsd-kind-function tsd-is-not-exported"><a href="globals.html#createinstance" class="tsd-kind-icon">create<wbr>Instance</a></li>
-							<li class="tsd-kind-function"><a href="globals.html#deserialize" class="tsd-kind-icon">deserialize</a></li>
-							<li class="tsd-kind-function tsd-has-type-parameter"><a href="globals.html#extend" class="tsd-kind-icon">extend</a></li>
-							<li class="tsd-kind-function"><a href="globals.html#serialize" class="tsd-kind-icon">serialize</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#clear" class="tsd-kind-icon">clear</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#get" class="tsd-kind-icon">get</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#getall" class="tsd-kind-icon">get<wbr>All</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#has" class="tsd-kind-icon">has</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#remove" class="tsd-kind-icon">remove</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-interface tsd-is-inherited"><a href="storeinstance.html#set" class="tsd-kind-icon">set</a></li>
 						</ul>
 					</section>
 				</div>
 			</section>
 		</section>
-		<section class="tsd-panel-group tsd-member-group ">
-			<h2>Type aliases</h2>
-			<section class="tsd-panel tsd-member tsd-kind-type-alias">
-				<a name="method" class="tsd-anchor"></a>
-				<h3>Method</h3>
-				<div class="tsd-signature tsd-kind-icon">Method<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"set"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"get"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"has"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"remove"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"clear"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"getAll"</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L1">types.ts:1</a></li>
-					</ul>
-				</aside>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-type-alias">
-				<a name="storagetype" class="tsd-anchor"></a>
-				<h3>Storage<wbr>Type</h3>
-				<div class="tsd-signature tsd-kind-icon">Storage<wbr>Type<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"localStorage"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"sessionStorage"</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L2">types.ts:2</a></li>
-					</ul>
-				</aside>
-			</section>
-		</section>
-		<section class="tsd-panel-group tsd-member-group ">
-			<h2>Variables</h2>
-			<section class="tsd-panel tsd-member tsd-kind-variable tsd-is-not-exported">
+		<section class="tsd-panel-group tsd-member-group tsd-is-inherited">
+			<h2>Properties</h2>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-inherited">
 				<a name="session" class="tsd-anchor"></a>
-				<h3><span class="tsd-flag ts-flagConst">Const</span> session</h3>
-				<div class="tsd-signature tsd-kind-icon">session<span class="tsd-signature-symbol">:</span> <a href="interfaces/storeinstance.html" class="tsd-signature-type">StoreInstance</a><span class="tsd-signature-symbol"> =&nbsp;createInstance(&#x27;sessionStorage&#x27;)</span></div>
+				<h3>session</h3>
+				<div class="tsd-signature tsd-kind-icon">session<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">any</span></div>
 				<aside class="tsd-sources">
+					<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#session">session</a></p>
 					<ul>
-						<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/index.ts#L13">index.ts:13</a></li>
-					</ul>
-				</aside>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-variable">
-				<a name="store" class="tsd-anchor"></a>
-				<h3><span class="tsd-flag ts-flagConst">Const</span> store</h3>
-				<div class="tsd-signature tsd-kind-icon">store<span class="tsd-signature-symbol">:</span> <a href="interfaces/storeinstance.html" class="tsd-signature-type">StoreInstance</a><span class="tsd-signature-symbol"> =&nbsp;createInstance()</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/index.ts#L12">index.ts:12</a></li>
+						<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L23">types.ts:23</a></li>
 					</ul>
 				</aside>
 			</section>
 		</section>
-		<section class="tsd-panel-group tsd-member-group ">
-			<h2>Functions</h2>
-			<section class="tsd-panel tsd-member tsd-kind-function tsd-is-not-exported">
-				<a name="createinstance" class="tsd-anchor"></a>
-				<h3>create<wbr>Instance</h3>
-				<ul class="tsd-signatures tsd-kind-function tsd-is-not-exported">
-					<li class="tsd-signature tsd-kind-icon">create<wbr>Instance<span class="tsd-signature-symbol">(</span>type<span class="tsd-signature-symbol">?: </span><a href="globals.html#storagetype" class="tsd-signature-type">StorageType</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="interfaces/storeinstance.html" class="tsd-signature-type">StoreInstance</a></li>
+		<section class="tsd-panel-group tsd-member-group tsd-is-inherited">
+			<h2>Methods</h2>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="clear" class="tsd-anchor"></a>
+				<h3>clear</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">clear<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#clear">clear</a></p>
 							<ul>
-								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/index.ts#L5">index.ts:5</a></li>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L19">types.ts:19</a></li>
 							</ul>
 						</aside>
-						<h4 class="tsd-parameters-title">Parameters</h4>
-						<ul class="tsd-parameters">
-							<li>
-								<h5><span class="tsd-flag ts-flagDefault value">Default value</span> type: <a href="globals.html#storagetype" class="tsd-signature-type">StorageType</a><span class="tsd-signature-symbol"> =&nbsp;&quot;localStorage&quot;</span></h5>
-							</li>
-						</ul>
-						<h4 class="tsd-returns-title">Returns <a href="interfaces/storeinstance.html" class="tsd-signature-type">StoreInstance</a></h4>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
 					</li>
 				</ul>
 			</section>
-			<section class="tsd-panel tsd-member tsd-kind-function">
-				<a name="deserialize" class="tsd-anchor"></a>
-				<h3>deserialize</h3>
-				<ul class="tsd-signatures tsd-kind-function">
-					<li class="tsd-signature tsd-kind-icon">deserialize<span class="tsd-signature-symbol">(</span>val<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="get" class="tsd-anchor"></a>
+				<h3>get</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">get<span class="tsd-signature-symbol">(</span>key<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#get">get</a></p>
 							<ul>
-								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/helps.ts#L7">helps.ts:7</a></li>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L17">types.ts:17</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
 						<ul class="tsd-parameters">
 							<li>
-								<h5>val: <span class="tsd-signature-type">string</span></h5>
+								<h5>key: <span class="tsd-signature-type">string</span></h5>
 							</li>
 						</ul>
 						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
 					</li>
 				</ul>
 			</section>
-			<section class="tsd-panel tsd-member tsd-kind-function tsd-has-type-parameter">
-				<a name="extend" class="tsd-anchor"></a>
-				<h3>extend</h3>
-				<ul class="tsd-signatures tsd-kind-function tsd-has-type-parameter">
-					<li class="tsd-signature tsd-kind-icon">extend&lt;T, U&gt;<span class="tsd-signature-symbol">(</span>to<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">T</span>, from<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">U</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">T</span><span class="tsd-signature-symbol"> &amp; </span><span class="tsd-signature-type">U</span></li>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="getall" class="tsd-anchor"></a>
+				<h3>get<wbr>All</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">get<wbr>All<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#getall">getAll</a></p>
 							<ul>
-								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/helps.ts#L16">helps.ts:16</a></li>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L20">types.ts:20</a></li>
 							</ul>
 						</aside>
-						<h4 class="tsd-type-parameters-title">Type parameters</h4>
-						<ul class="tsd-type-parameters">
-							<li>
-								<h4>T</h4>
-							</li>
-							<li>
-								<h4>U</h4>
-							</li>
-						</ul>
-						<h4 class="tsd-parameters-title">Parameters</h4>
-						<ul class="tsd-parameters">
-							<li>
-								<h5>to: <span class="tsd-signature-type">T</span></h5>
-							</li>
-							<li>
-								<h5>from: <span class="tsd-signature-type">U</span></h5>
-							</li>
-						</ul>
-						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">T</span>
-							<span class="tsd-signature-symbol"> &amp; </span>
-							<span class="tsd-signature-type">U</span>
-						</h4>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
 					</li>
 				</ul>
 			</section>
-			<section class="tsd-panel tsd-member tsd-kind-function">
-				<a name="serialize" class="tsd-anchor"></a>
-				<h3>serialize</h3>
-				<ul class="tsd-signatures tsd-kind-function">
-					<li class="tsd-signature tsd-kind-icon">serialize<span class="tsd-signature-symbol">(</span>val<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></li>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="has" class="tsd-anchor"></a>
+				<h3>has</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">has<span class="tsd-signature-symbol">(</span>key<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#has">has</a></p>
 							<ul>
-								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/helps.ts#L2">helps.ts:2</a></li>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L21">types.ts:21</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
 						<ul class="tsd-parameters">
 							<li>
-								<h5>val: <span class="tsd-signature-type">any</span></h5>
+								<h5>key: <span class="tsd-signature-type">string</span></h5>
 							</li>
 						</ul>
-						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">string</span></h4>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="remove" class="tsd-anchor"></a>
+				<h3>remove</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">remove<span class="tsd-signature-symbol">(</span>key<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#remove">remove</a></p>
+							<ul>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L22">types.ts:22</a></li>
+							</ul>
+						</aside>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>key: <span class="tsd-signature-type">string</span></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+				<a name="set" class="tsd-anchor"></a>
+				<h3>set</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-inherited">
+					<li class="tsd-signature tsd-kind-icon">set<span class="tsd-signature-symbol">(</span>key<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, value<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<p>Inherited from <a href="../classes/store.html">Store</a>.<a href="../classes/store.html#set">set</a></p>
+							<ul>
+								<li>Defined in <a href="https://github.com/way-jm/xr-storage/blob/f44dfa8/src/types.ts#L18">types.ts:18</a></li>
+							</ul>
+						</aside>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>key: <span class="tsd-signature-type">string</span></h5>
+							</li>
+							<li>
+								<h5>value: <span class="tsd-signature-type">any</span></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
 					</li>
 				</ul>
 			</section>

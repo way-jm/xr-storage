@@ -1,6 +1,24 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var helps_1 = require("./helps");
+// 字符化
+function serialize(val) {
+    return JSON.stringify(val);
+}
+// 反字符化
+function deserialize(val) {
+    try {
+        return JSON.parse(val);
+    }
+    catch (e) {
+        return val || undefined;
+    }
+}
+// 混合对象
+function extend(to, from) {
+    for (var key in from) {
+        to[key] = from[key];
+    }
+    return to;
+}
+
 var Store = /** @class */ (function () {
     function Store(type) {
         this.disabled = false;
@@ -39,14 +57,14 @@ var Store = /** @class */ (function () {
         if (value === undefined) {
             this.remove(key);
         }
-        this.storage.setItem(key, helps_1.serialize(value));
+        this.storage.setItem(key, serialize(value));
         return value;
     };
     // 获取storage
     Store.prototype.get = function (key) {
         if (!key || this.disabled)
             return undefined;
-        var val = helps_1.deserialize(this.storage.getItem(key));
+        var val = deserialize(this.storage.getItem(key));
         return val === undefined || val === null ? undefined : val;
     };
     // 是否存在这个key
@@ -87,5 +105,17 @@ var Store = /** @class */ (function () {
     };
     return Store;
 }());
-exports.default = Store;
-//# sourceMappingURL=Store.js.map
+
+function createInstance(type) {
+    if (type === void 0) { type = 'localStorage'; }
+    var context = new Store(type);
+    var instance = Store.prototype.do.bind(context);
+    extend(instance, context);
+    return instance;
+}
+var store = createInstance();
+var session = createInstance('sessionStorage');
+store.session = session;
+
+export default store;
+//# sourceMappingURL=xr-storage.es5.js.map

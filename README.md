@@ -3,7 +3,7 @@
 使用Typescript编写更加易用的localStorage和sessionStorage的API
 
 
-[![](https://img.shields.io/npm/v/qm-storage.svg)](https://www.npmjs.com/package/qm-storage) 
+[![](https://img.shields.io/npm/v/xr-storage.svg)](https://www.npmjs.com/package/xr-storage) 
 [![](https://img.shields.io/npm/types/qm-storage.svg)](https://www.typescriptlang.org) 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Travis](https://img.shields.io/travis/alexjoverm/typescript-library-starter.svg)](https://travis-ci.org/alexjoverm/typescript-library-starter)
@@ -13,13 +13,13 @@
 ## 安装
 
 
- `npm  i qm-storage --save`
+ `npm  i xr-storage --save`
  
- `import store from 'qm-storage'`
+ `import store from 'xr-storage'`
 ## 使用文档
 
 
-[documentation](https://way-jm.github.io/qm-storage/start/start.html)
+[documentation](https://way-jm.github.io/xr-storage/start/start.html)
 
 ## 关于单元测试
 

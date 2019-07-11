@@ -1,18 +1,18 @@
 {
-  "name": "qm-storage",
+  "name": "xr-storage",
   "version": "0.6.0",
   "description": "",
   "keywords": [],
-  "main": "dist/b-storage.umd.js",
-  "module": "dist/b-storage.es5.js",
-  "typings": "dist/types/b-storage.d.ts",
+  "main": "dist/xr-storage.umd.js",
+  "module": "dist/xr-storage.es5.js",
+  "typings": "dist/types/xr-storage.d.ts",
   "files": [
     "dist"
   ],
   "author": "way <1904628089@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:way-jm/qm-storage.git"
+    "url": "git@github.com:way-jm/xr-storage.git"
   },
   "license": "MIT",
   "engines": {
@@ -88,11 +88,13 @@
     "@commitlint/config-conventional": "^7.1.2",
     "@types/jest": "^24.0.13",
     "@types/node": "^10.11.0",
+    "body-parser": "^1.18.3",
     "colors": "^1.3.2",
     "commitizen": "^3.0.0",
     "coveralls": "^3.0.2",
     "cross-env": "^5.2.0",
     "cz-conventional-changelog": "^2.1.0",
+    "express": "^4.16.4",
     "husky": "^1.0.1",
     "jest": "^24.8.0",
     "jest-config": "^24.8.0",
@@ -112,18 +114,16 @@
     "shelljs": "^0.8.3",
     "travis-deploy-once": "^5.0.9",
     "ts-jest": "^24.0.2",
+    "ts-loader": "^5.3.3",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
     "tslint-config-standard": "^8.0.1",
+    "tslint-loader": "^3.5.4",
     "typedoc": "^0.12.0",
     "typescript": "^3.4.5",
     "webpack": "^4.28.4",
     "webpack-dev-middleware": "^3.5.0",
-    "webpack-hot-middleware": "^2.24.3",
-    "ts-loader": "^5.3.3",
-    "tslint-loader": "^3.5.4",
-    "express": "^4.16.4",
-    "body-parser": "^1.18.3"
+    "webpack-hot-middleware": "^2.24.3"
   }
 }

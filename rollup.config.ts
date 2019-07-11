@@ -7,7 +7,7 @@ import json from 'rollup-plugin-json'
 
 const pkg = require('./package.json')
 
-const libraryName = 'qm-storage'
+const libraryName = 'xr-storage'
 
 export default {
   input: `src/index.ts`,
