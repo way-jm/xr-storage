@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/code/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/semanticDiagnostics/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.rpt2_cache/rpt2_118465304d398a5e210fb8b5c2615bedc11e9d82/syntacticDiagnostics/cache/4c848a5d2bde1340189c6b2bca787b4bc4b31042" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Store.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Store.ts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/helps.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/helps.ts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.ts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.es5.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b-storage.umd.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/b-storage.umd.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/Store.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/Store.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/function.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api/prototype.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.b8444819.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.ab736c13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.f851e828.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/2.7af81705.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.e6d6c959.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.7bf71852.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.f32454df.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.45e2340f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.edfb72ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.34f6ab9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.e708abf7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.9ceff408.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start/install.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store.ts" afterDir="false" />
-    </list>
+    <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Store.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -67,13 +28,9 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/404.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,10 +109,16 @@
               <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="qm-storage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qm-storage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,15 +136,15 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test/helps" />
-      <recent name="$PROJECT_DIR$/examples" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/helpers" />
       <recent name="$PROJECT_DIR$/examples/simple" />
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/helps" />
       <recent name="$PROJECT_DIR$/examples" />
     </key>
   </component>
@@ -228,6 +190,7 @@
       <workItem from="1562735609524" duration="598000" />
       <workItem from="1562736211942" duration="29000" />
       <workItem from="1562736258490" duration="5000" />
+      <workItem from="1562736333681" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme说明">
       <created>1562649804639</created>
@@ -285,11 +248,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562661377248</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix error after ban cookie">
+      <created>1562736449439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562736449439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44694000" />
+    <option name="totallyTimeSpent" value="45452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,9 +272,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1373" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28249437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28625095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -337,7 +306,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加readme说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加readme说明" />
+    <MESSAGE value="fix error after ban cookie" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix error after ban cookie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,7 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/404.html" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -490,10 +459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Store.ts">
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="198">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -504,10 +473,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
+    <entry file="file://$PROJECT_DIR$/docs/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Store.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="324">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
