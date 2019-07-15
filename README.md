@@ -4,7 +4,7 @@
 
 ## XR-
 
-关于名字为啥以xr开头，大概是对那段爱而不得的过往依然梗梗于怀吧。
+关于名字为啥以xr开头，大概是对那段爱而不得的过往依然梗梗于怀吧。等有一天超过200个Star了，我就在下面公开出来。
 
 
 [![](https://img.shields.io/npm/v/xr-storage.svg)](https://www.npmjs.com/package/xr-storage) 
