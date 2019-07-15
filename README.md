@@ -2,6 +2,10 @@
 
 使用Typescript编写更加易用的localStorage和sessionStorage的API
 
+## 安装
+
+关于名字为啥以xr开头，大概是对那段爱而不得的过往依然梗梗于怀吧。
+
 
 [![](https://img.shields.io/npm/v/xr-storage.svg)](https://www.npmjs.com/package/xr-storage) 
 [![](https://img.shields.io/npm/types/xr-storage.svg)](https://www.typescriptlang.org) 
