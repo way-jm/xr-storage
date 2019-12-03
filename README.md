@@ -1,6 +1,6 @@
 # xr-storage
 
-使用Typescript编写更加易用的localStorage和sessionStorage的API
+使用Typescript编写更加易用的localStorage和sessionStorage的API。
 
 
 [![](https://img.shields.io/npm/v/xr-storage.svg)](https://www.npmjs.com/package/xr-storage) 
@@ -11,7 +11,6 @@
 
 
 ## 安装
-
 
  `npm  i xr-storage --save`
  
