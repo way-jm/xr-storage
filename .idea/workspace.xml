@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff0ebb63-3178-4627-9a73-733d48ac9718" name="Default Changelist" comment="change 包名">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/types/xr-storage.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/types/xr-storage.d.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,7 @@
       <workItem from="1562736333681" duration="758000" />
       <workItem from="1562804551445" duration="719000" />
       <workItem from="1562805279473" duration="970000" />
-      <workItem from="1586829715650" duration="3675000" />
+      <workItem from="1586829715650" duration="7427000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme说明">
       <created>1562649804639</created>

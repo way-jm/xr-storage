@@ -28,5 +28,5 @@ declare module 'xr-storage' {
     function session(params: paramsObjInterface): any;
   }
   function xrStorage(params: paramsObjInterface): any;
-export = xrStorage;
+  export = xrStorage;
 }
