@@ -19,10 +19,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -110,7 +110,7 @@
       <workItem from="1562736333681" duration="758000" />
       <workItem from="1562804551445" duration="719000" />
       <workItem from="1562805279473" duration="970000" />
-      <workItem from="1586829715650" duration="1159000" />
+      <workItem from="1586829715650" duration="3675000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme说明">
       <created>1562649804639</created>

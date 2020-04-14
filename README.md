@@ -17,8 +17,7 @@
  `import store from 'xr-storage'`
 
 ## 2020年4月更新(Typescript支持)
-在Typescript中使用:
-已经添加类型声明文件到@types仓库，如需在typescript中使用，请npm install @types/xr-storage
+支持在TypeScript中使用，可以获得使用规范和代码提示。
 
 ## 使用文档
 [documentation](https://way-jm.github.io/xr-storage/start/start.html)
