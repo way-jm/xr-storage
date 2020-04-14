@@ -1,6 +1,6 @@
 {
   "name": "xr-storage",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/xr-storage.umd.js",
