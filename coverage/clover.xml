@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1562735974992" clover="3.2.0">
-  <project timestamp="1562735974992" name="All files">
+<coverage generated="1586829854331" clover="3.2.0">
+  <project timestamp="1586829854331" name="All files">
     <metrics statements="68" coveredstatements="67" conditionals="40" coveredconditionals="32" methods="15" coveredmethods="15" elements="123" coveredelements="114" complexity="0" loc="68" ncloc="68" packages="1" files="3" classes="3"/>
-    <file name="Store.ts" path="/Users/way/PhpstormProjects/qm-storage/src/Store.ts">
+    <file name="Store.ts" path="F:\workspace\xr-storage\src\Store.ts">
       <metrics statements="47" coveredstatements="46" conditionals="36" coveredconditionals="28" methods="11" coveredmethods="11"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -52,7 +52,7 @@
       <line num="83" count="1" type="stmt"/>
       <line num="85" count="1" type="stmt"/>
     </file>
-    <file name="helps.ts" path="/Users/way/PhpstormProjects/qm-storage/src/helps.ts">
+    <file name="helps.ts" path="F:\workspace\xr-storage\src\helps.ts">
       <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
       <line num="2" count="2" type="stmt"/>
       <line num="3" count="8" type="stmt"/>
@@ -65,7 +65,7 @@
       <line num="18" count="21" type="stmt"/>
       <line num="20" count="3" type="stmt"/>
     </file>
-    <file name="index.ts" path="/Users/way/PhpstormProjects/qm-storage/src/index.ts">
+    <file name="index.ts" path="F:\workspace\xr-storage\src\index.ts">
       <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>

@@ -1,5 +1,5 @@
 TN:
-SF:/Users/way/PhpstormProjects/qm-storage/src/Store.ts
+SF:F:\workspace\xr-storage\src\Store.ts
 FN:3,(anonymous_0)
 FN:7,Store
 FN:16,(anonymous_2)
@@ -113,7 +113,7 @@ BRF:36
 BRH:28
 end_of_record
 TN:
-SF:/Users/way/PhpstormProjects/qm-storage/src/helps.ts
+SF:F:\workspace\xr-storage\src\helps.ts
 FN:2,serialize
 FN:7,deserialize
 FN:16,extend
@@ -140,7 +140,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Users/way/PhpstormProjects/qm-storage/src/index.ts
+SF:F:\workspace\xr-storage\src\index.ts
 FN:5,createInstance
 FNF:1
 FNH:1
